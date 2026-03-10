@@ -12,7 +12,7 @@ guesses a randomly generated number with AI hints.
 ## How to Run
 1. Clone the repository
 2. Open in any C++ compiler
-3. Compile and run main.cpp
+3. Compile and run project.cpp
 
 ## Technologies Used
 - C++
